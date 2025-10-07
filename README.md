@@ -1,5 +1,5 @@
 
-# Welcome my Amazon 
+# <div align="center" > Welcome my Amazon Clone </div>
 
 <img src="Screenshot 2025-10-07 200059.png">
 <img src="Screenshot 2025-10-07 200135.png">
